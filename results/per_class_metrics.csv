@@ -1,0 +1,10 @@
+Model,Class,Precision,Recall,F1,Support
+Decision Tree,Low,85.72,86.77,86.24,6487
+Decision Tree,Medium,73.18,74.56,73.87,6486
+Decision Tree,High,88.54,85.79,87.14,6487
+Random Forest,Low,87.08,86.22,86.65,6487
+Random Forest,Medium,74.42,77.18,75.77,6486
+Random Forest,High,89.67,87.22,88.43,6487
+XGBoost (tuned),Low,87.89,87.34,87.61,6487
+XGBoost (tuned),Medium,76.89,78.71,77.79,6486
+XGBoost (tuned),High,90.56,88.98,89.76,6487

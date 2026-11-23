@@ -1,0 +1,4 @@
+Model,Accuracy,Precision (wtd.),Recall (wtd.),F1-score (wtd.)
+Decision Tree,82.37,82.48,82.37,82.42
+Random Forest,83.54,83.72,83.54,83.62
+XGBoost (tuned),85.01,85.11,85.01,85.06
