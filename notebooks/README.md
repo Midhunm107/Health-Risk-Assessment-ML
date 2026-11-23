@@ -5,10 +5,10 @@ Run them in Google Colab (*File → Upload notebook*) and upload `health_risk_pr
 
 | Notebook | Algorithm | Status |
 |----------|-----------|--------|
-| `01_decision_tree.ipynb` | Decision Tree (`max_depth=10`) | to be added by the team member working on it |
+| `01_decision_tree.ipynb` | Decision Tree (`max_depth=10`) | done |
 | `02_random_forest.ipynb` | Random Forest (100 trees) | done |
 | `03_xgboost.ipynb` | XGBoost with `RandomizedSearchCV` tuning | done |
-| `04_weka_clustering` | WEKA SimpleKMeans, k = 3 (seed 10, 500 iterations) | done in the WEKA Explorer – write-up in the report |
+| `04_weka_clustering` | WEKA SimpleKMeans, k = 3 (seed 10, 500 iterations) | done in the WEKA Explorer |
 
 ## Common preparation (identical in every notebook)
 
