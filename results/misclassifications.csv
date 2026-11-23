@@ -1,0 +1,19 @@
+Model,Error,Count,Kind
+Decision Tree,Low → Medium,856,Adjacent bands
+Decision Tree,Low → High,2,Low ↔ High
+Decision Tree,Medium → Low,932,Adjacent bands
+Decision Tree,Medium → High,718,Adjacent bands
+Decision Tree,High → Low,6,Low ↔ High
+Decision Tree,High → Medium,916,Adjacent bands
+Random Forest,Low → Medium,894,Adjacent bands
+Random Forest,Low → High,0,Low ↔ High
+Random Forest,Medium → Low,828,Adjacent bands
+Random Forest,Medium → High,652,Adjacent bands
+Random Forest,High → Low,2,Low ↔ High
+Random Forest,High → Medium,827,Adjacent bands
+XGBoost (tuned),Low → Medium,821,Adjacent bands
+XGBoost (tuned),Low → High,0,Low ↔ High
+XGBoost (tuned),Medium → Low,779,Adjacent bands
+XGBoost (tuned),Medium → High,602,Adjacent bands
+XGBoost (tuned),High → Low,2,Low ↔ High
+XGBoost (tuned),High → Medium,713,Adjacent bands
